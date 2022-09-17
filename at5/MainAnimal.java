@@ -1,9 +1,3 @@
-//Atividade 5
-/* IFPR Campus Cascavel
-Aluno: Paulo Henrique da Rosa
-Professor: Nelson Bellicanta
-Disciplina: Programação Orientada à Objetos (POO)
-*/
 public class MainAnimal {
     // private String acao; 
     public static void main(String[] args) {

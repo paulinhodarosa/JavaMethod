@@ -1,9 +1,3 @@
-//Atividade 5
-/* IFPR Campus Cascavel
-Aluno: Paulo Henrique da Rosa
-Professor: Nelson Bellicanta
-Disciplina: Programação Orientada à Objetos (POO)
-*/
 public class Preguica extends Animal{
     // private String acao;
 
